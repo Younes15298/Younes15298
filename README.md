@@ -4,7 +4,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mohamed Younes</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
+<p  align="center" >I am a passionate developer dedicated to creating
+attractive website designs and a career changer who has experience in Graphic Design Software,and that makes me focus on small
+details in work</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younes15298" alt="younes15298" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@younes15298" target="blank"><img src="https://img.shields.io/twitter/follow/@younes15298?logo=twitter&style=for-the-badge" alt="@younes15298" /></a> </p>
