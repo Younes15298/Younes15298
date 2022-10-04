@@ -11,7 +11,7 @@ details in work</p>
 
 <p align="left"> <a href="https://twitter.com/@younes15298" target="blank"><img src="https://img.shields.io/twitter/follow/@younes15298?logo=twitter&style=for-the-badge" alt="@younes15298" /></a> </p>
 
-- 🔭 I’m currently working on **Starbucks clone**
+- 🔭 I’m currently working on **Music Website**
 
 - 🌱 I’m currently learning **parralax.js**
 
