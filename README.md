@@ -13,7 +13,7 @@ details in work</p>
 
 - 🔭 I’m currently working on **Music Website**
 
-- 🌱 I’m currently learning **parralax.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **React.js**
 
